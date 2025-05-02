@@ -22,8 +22,6 @@ Access the application in your browser at http://localhost:8080 (or your configu
 
 ## How It Works
 
-This application is designed with simplicity in mind:
-
 1. The server loads configuration from YAML
 2. It fetches the Cloudflare Access certificate from the configured URL
 3. When a request is made to `/`, it:
