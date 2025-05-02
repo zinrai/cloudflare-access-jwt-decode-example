@@ -1,0 +1,8 @@
+# Application configuration
+server:
+  port: "8080"  # Listening port
+
+cloudflare:
+  # Certificate endpoint URL
+  # https://developers.cloudflare.com/cloudflare-one/identity/authorization-cookie/validating-json/
+  certs_url: "https://<your-team-name>.cloudflareaccess.com/cdn-cgi/access/certs"
