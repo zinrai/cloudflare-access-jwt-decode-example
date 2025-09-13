@@ -28,3 +28,7 @@ Access the application in your browser at http://localhost:8080 (or your configu
    - Looks for a JWT token in the `CF_Authorization` cookie
    - Decodes the token to extract the email address
    - Displays the email address in the browser
+
+## License
+
+This project is licensed under the [MIT License](./LICENSE).
